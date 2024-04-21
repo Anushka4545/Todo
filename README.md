@@ -1,8 +1,34 @@
-# React + Vite
+# Anushka Todo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## How to install
+Step 1:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    git clone https://github.com/Anushka4545/Todo.git
+
+Step 2:
+    Enter into project Directory
+
+Step 3: Open Terminal
+
+Step 4: 
+
+    npm install
+
+step 5:
+
+    npm run dev
+
+Now Application is ready to use
+
+## Demo Application
+
+- [View Live Application](https://anushkatodo.netlify.app/)
+    
+## Demo Video
+
+
+https://github.com/Anushka4545/Todo/assets/132885000/7be80682-7dd5-4879-adf7-4c31c1fd17b9
+
+
+
